@@ -4,7 +4,7 @@ let hour=document.getElementById("hour");
 let minute=document.getElementById("minute");
 let second=document.getElementById("second");
 
-let target = new Date("Mar 10, 2024 12:00:00 GMT+5:30").getTime();
+let target = new Date("Mar 30, 2025 12:00:00 GMT+5:30").getTime();
 let months = 0;
 let days = 0;
 let hours = 0;
